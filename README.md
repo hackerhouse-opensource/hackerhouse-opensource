@@ -1,4 +1,4 @@
-Welcome to the Hacker House open-source security research repository. Here is a summary of our projects. All files released by Hacker House are available under a Attribution-NonCommercial-NoDerivatives 4.0 International license. These repositories provide educational content for ethical hacking and cyber security practioners. Use in ANY criminal activity is strictly prohibited and against the terms of the software license agreement. 
+Welcome to the Hacker House open-source repositories. All files released by Hacker House are available under a Attribution-NonCommercial-NoDerivatives 4.0 International license. These repositories provide educational content for ethical hacking and cyber security practioners. Use in ANY criminal activity is strictly prohibited and against the terms of the software license agreement. A table is provided here to help navigate.
 
 | URL | Repository Name | Description |
 | --- | --------------- | ----------- |
