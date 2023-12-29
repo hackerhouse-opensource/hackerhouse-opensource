@@ -10,6 +10,7 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [OffensiveLua](https://github.com/hackerhouse-opensource/OffensiveLua) | OffensiveLua | Offensive Lua. |
 | [AESCrypt](https://github.com/hackerhouse-opensource/AESCrypt) | AESCrypt | AES-256 Microsoft Cryptography API Example Use. |
 | [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) | SignToolEx | Hack "signtool.exe" to use expired certificates for code-signing |
+| [Marble](https://github.com/hackerhouse-opensource/marble) | Marble Framework | Marble Framework allows for flexible and easy-to-use obfuscation when developing tools, fixed source from Wikileaks |
 | [iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) | iscsicpl_bypassUAC | UAC bypass for x64 Windows 7 - 11 |
 | [CompMgmtLauncher_DLL_UACBypass](https://github.com/hackerhouse-opensource/CompMgmtLauncher_DLL_UACBypass) | CompMgmtLauncher_DLL_UACBypass | CompMgmtLauncher & Sharepoint DLL Search Order hijacking UAC/persist via OneDrive |
 | [Gigabyte_ElevatePersist](https://github.com/hackerhouse-opensource/Gigabyte_ElevatePersist) | Gigabyte_ElevatePersist | Giga-byte Control Center (GCC) Elevation & Persist |
