@@ -12,6 +12,7 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) | SignToolEx | Hack "signtool.exe" to use expired certificates for code-signing |
 | [Marble](https://github.com/hackerhouse-opensource/marble) | Marble Framework | Marble Framework allows for flexible and easy-to-use obfuscation when developing tools, fixed source from Wikileaks |
 | [WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) | WMI Process Watcher | A CIA tradecraft technique to asynchronously detect when a process is created using WMI. | 
+| [Artillery](https://github.com/hackerhouse-opensource/Artillery) | Artillery | A CIA tradecraft UAC bypass utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator for persistence. |
 | [iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) | iscsicpl_bypassUAC | UAC bypass for x64 Windows 7 - 11 |
 | [CompMgmtLauncher_DLL_UACBypass](https://github.com/hackerhouse-opensource/CompMgmtLauncher_DLL_UACBypass) | CompMgmtLauncher_DLL_UACBypass | CompMgmtLauncher & Sharepoint DLL Search Order hijacking UAC/persist via OneDrive |
 | [Gigabyte_ElevatePersist](https://github.com/hackerhouse-opensource/Gigabyte_ElevatePersist) | Gigabyte_ElevatePersist | Giga-byte Control Center (GCC) Elevation & Persist |
