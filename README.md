@@ -14,7 +14,7 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) | WMI Process Watcher | A CIA tradecraft technique to asynchronously detect when a process is created using WMI. | 
 | [Artillery](https://github.com/hackerhouse-opensource/Artillery) | Artillery | A CIA technique for UAC bypass which utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator for persistence. |
 | [Stinger](https://github.com/hackerhouse-opensource/Stinger) | Stinger | A CIA technique for UAC bypass that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as administrator. 20% cooler |
-| [iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) | iscsicpl_bypassUAC | Hacker House UAC bypass for x64 Windows 7 - 11 |
+| [iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) | iscsicpl_bypassUAC | UAC bypass for x64 Windows 7 - 11 |
 | [CompMgmtLauncher_DLL_UACBypass](https://github.com/hackerhouse-opensource/CompMgmtLauncher_DLL_UACBypass) | CompMgmtLauncher_DLL_UACBypass | CompMgmtLauncher & Sharepoint DLL Search Order hijacking UAC/persist via OneDrive |
 | [Gigabyte_ElevatePersist](https://github.com/hackerhouse-opensource/Gigabyte_ElevatePersist) | Gigabyte_ElevatePersist | Giga-byte Control Center (GCC) Elevation & Persist |
 | [cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527) | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation |
