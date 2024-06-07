@@ -27,3 +27,6 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [electionhacking](https://github.com/hackerhouse-opensource/electionhacking) | electionhacking | Diebold Accuvote-TSx Election Machine Hacking |
 | [rebirth](https://github.com/hackerhouse-opensource/rebirth) | rebirth | rebirth IOS11 - 11.3.1 jailbreak security research utility |
 | [pyongyang_2407](https://github.com/hackerhouse-opensource/pyongyang_2407) | pyongyang_2407 | Pyongyang 2407 - Android ROM from North Korea, hardware and booting instructions. |
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/hackerhouse-opensource/hackerhouse-opensource/main/matrix.gif');]{x0000}$}
