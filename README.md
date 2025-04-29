@@ -2,7 +2,6 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 
 | URL | Repository Name | Description |
 | --- | --------------- | ----------- |
-| [hfwintelnet](https://github.com/hackerhouse-opensource/hfwintelnet) | hfwintelnet | Microsoft Telnet Server MS-TNAP Authentication Bypass (RCE 0day) |
 | [backdoors](https://github.com/hackerhouse-opensource/backdoors) | backdoors | Tools for maintaining access to systems and proof-of-concept demonstrations. |
 | [exploits](https://github.com/hackerhouse-opensource/exploits) | exploits | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House |
 | [shellcode](https://github.com/hackerhouse-opensource/shellcode) | shellcode | shellcode are codes designed to be injected into the memory space of another process during exploitation. |
