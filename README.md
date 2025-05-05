@@ -8,6 +8,7 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [tools](https://github.com/hackerhouse-opensource/tools) | tools | A collection of tools created for computer security research purposes. |
 | [documents](https://github.com/hackerhouse-opensource/documents) | documents | Papers, presentations and documents from the team at Hacker House. |
 | [OffensiveLua](https://github.com/hackerhouse-opensource/OffensiveLua) | OffensiveLua | Offensive Lua. A project to create Lua hacking scripts for Windows platforms. |
+| [telnetclientpoc](https://github.com/hackerhouse-opensource/telnetclientpoc) | telnetclientpoc |  Microsoft Telnet Client MS-TNAP Server-Side Authentication Token Exploit |
 | [AESCrypt](https://github.com/hackerhouse-opensource/AESCrypt) | AESCrypt | AES-256 Microsoft Cryptography API Example. |
 | [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) | SignToolEx | Hack "signtool.exe" to use expired certificates for code-signing |
 | [Marble](https://github.com/hackerhouse-opensource/marble) | Marble Framework | Marble Framework allows for flexible and easy-to-use obfuscation when developing tools, fixed source from Wikileaks |
