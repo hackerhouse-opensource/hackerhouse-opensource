@@ -11,6 +11,7 @@ Welcome to Hacker House open-source releases. All files released by Hacker House
 | [telnetclientpoc](https://github.com/hackerhouse-opensource/telnetclientpoc) | telnetclientpoc |  Microsoft Telnet Client MS-TNAP Server-Side Authentication Token Exploit |
 | [AESCrypt](https://github.com/hackerhouse-opensource/AESCrypt) | AESCrypt | AES-256 Microsoft Cryptography API Example. |
 | [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) | SignToolEx | Hack "signtool.exe" to use expired certificates for code-signing |
+| [SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) | SetupHijack | SetupHijack is a security research tool that exploits race conditions and insecure file handling in Windows applications installer and update processes. |
 | [Marble](https://github.com/hackerhouse-opensource/marble) | Marble Framework | Marble Framework allows for flexible and easy-to-use obfuscation when developing tools, fixed source from Wikileaks |
 | [WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) | WMI Process Watcher | A CIA tradecraft technique to asynchronously detect when a process is created using WMI. | 
 | [Artillery](https://github.com/hackerhouse-opensource/Artillery) | Artillery | A CIA technique for UAC bypass which utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator for persistence. |
