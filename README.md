@@ -1,4 +1,4 @@
-Welcome to Hacker House open-source releases. All files released by Hacker House are available under a software is licensed under the 3-clause BSD license unless otherwise explicitly stated. These repositories provide educational content for ethical hacking and cyber security practioners. Use in ANY criminal activity is strictly prohibited and against the terms of the software license agreement. A table is provided here to help navigate.
+Welcome to Hacker House open-source releases. All files released by Hacker House are available under a software is licensed under the 3-clause BSD license unless otherwise explicitly stated. These repositories provide educational content for ethical hacking and cyber security practioners. Use in ANY criminal activity is strictly prohibited. A table is provided here to help navigate.
 
 
 
